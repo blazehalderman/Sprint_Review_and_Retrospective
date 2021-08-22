@@ -1,4 +1,4 @@
-# Sprint_Review_and_Retrospective
+# Sprint_Review_and_Retrospective (Chada Tech - CS250)
 
 ### How do interpret users needs and implement them into a program? How does creating "user stories" help with this?
 * Interpreting users needs begins with by first understanding who your users will be and how they will react or handle your program. Asking questions such as: What would I like in a program? How can this user interface be helpful or guide the user in the right direction? What is the benefit of using this program over others and what problem does it solve? These are all questions that should be accounted for when thinking about the user experience. Creating user stories helps paint a picture of a typcial users experience based on hypothetical or real-world examples of features and functionalities. This helps align the product with the vision of the product and also helps drive the focus of the software towards the user experience at the core.
